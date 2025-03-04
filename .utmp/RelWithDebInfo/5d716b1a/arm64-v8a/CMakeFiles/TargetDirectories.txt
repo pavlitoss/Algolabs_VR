@@ -1,0 +1,5 @@
+C:/Users/User/VR_TEST/.utmp/RelWithDebInfo/5d716b1a/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/User/VR_TEST/.utmp/RelWithDebInfo/5d716b1a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/User/VR_TEST/.utmp/RelWithDebInfo/5d716b1a/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/User/VR_TEST/.utmp/RelWithDebInfo/5d716b1a/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/User/VR_TEST/.utmp/RelWithDebInfo/5d716b1a/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
